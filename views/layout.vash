@@ -3,10 +3,16 @@
 	<title>@model.title</title>
 </head>
 <body>
+	<HR/>
 	<H1>HEADER</H1>
+	<HR/>
+	<BR/>
 
     <div>@html.block("content")</div>
 
+	<BR/>
+	<HR/>
 	<H1>FOOTER</H1>
+	<HR/>
 </body>
 </html>
