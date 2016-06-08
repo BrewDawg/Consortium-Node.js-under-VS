@@ -37,7 +37,7 @@ export module Services {
                     resp.gainOrLossPercent = 0.07;
                     resp.volume = 15031610;
                     resp.todaysHigh = 52.7299;
-                    resp.todaysHigh = 52.03;
+                    resp.todaysLow = 52.03;
                     resp.previousClose = 52.13;
                     resp.resultCode = ResultCode.Success;
                     break;

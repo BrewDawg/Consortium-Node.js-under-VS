@@ -8,3 +8,4 @@
 node_modules
 obj
 bin
+/.ntvs_analysis.dat
