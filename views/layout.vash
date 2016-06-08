@@ -1,0 +1,12 @@
+﻿<html>
+<head>
+	<title>@model.title</title>
+</head>
+<body>
+	<H1>HEADER</H1>
+
+    <div>@html.block("content")</div>
+
+	<H1>FOOTER</H1>
+</body>
+</html>
